@@ -1,7 +1,7 @@
-alert ("The Sovereign Knows what you did.");
+
 
 function clickAction() {
-    winner.textContent = 'Sashi Cheliah';
+    winner.textContent = 'Not You';
 
   };
   button.onclick = clickAction;
