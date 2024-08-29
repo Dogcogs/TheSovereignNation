@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Baskervville+SC&display=swap');
+
+h1 {
+    text-align: center;
+    font-family: Baskervville SC;
+    font-size: 50px;
+    text-decoration: underline;
+    background-color: gold;
+    margin-top: 0px;
+    padding: 0%;
+    border-bottom-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border: 2px solid darkgoldenrod;
+    padding: 20px;
+    line-height: 30px;
+}
+
+#h1two{
+    background-color: aliceblue;
+    color: red;
+    border-radius: 25px;
+}
+
+body { margin: 0%;
+    background-color: lightblue;
+    text-align: center;
+
+}
+   
+p {
+    text-align: center;
+    font-family: Baskervville SC;
+    font-size: x-large;
+    font-weight: bolder;
+    margin-left: 25px;
+    margin-right: 25px;
+    line-height: 22px;
+}
+
+
+h3{
+    text-align: center;
+    font-family: Baskervville SC;
+    font-size: 45px;
+    margin: 0px;
+    font-weight: lighter;
+    
+
+}
+
+span {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+#Hump {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25px;
+    background-color: #73AD21;
+    padding: 20px;
+    height: 150px;
+}
+
+button {
+    background-color: #73AD21;
+    border: 2px solid #4e7c0c;
+    border-radius: 25px;
+}
